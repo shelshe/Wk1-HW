@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\corra\Promineo\Week-01-CLI_Source_Control_and_Variables\.metadata\.plugins\org.eclipse.jdt.core
+3501714628.index
+845827784.index
